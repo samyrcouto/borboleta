@@ -8,6 +8,9 @@ Tudo está em **um único arquivo** (`index.html`), sem instalação, sem build 
 
 ---
 
+# Vizualização
+link:https://samyrcouto.github.io/borboleta/
+
 ##O que tem no projeto
 
 - **5 borboletas em 3D** (uma grande na frente e 4 menores seguindo o rastro) voando em uma trajetória curva.
