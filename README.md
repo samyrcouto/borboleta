@@ -8,9 +8,9 @@ Tudo está em **um único arquivo** (`index.html`), sem instalação, sem build 
 
 ---
 
-##  O que tem no projeto
+##O que tem no projeto
 
-- 🦋**5 borboletas em 3D** (uma grande na frente e 4 menores seguindo o rastro) voando em uma trajetória curva.
+- **5 borboletas em 3D** (uma grande na frente e 4 menores seguindo o rastro) voando em uma trajetória curva.
 - **Visual de esqueleto/holograma:** asas feitas só de veias, anéis, nós brilhantes e um preenchimento translúcido. O corpo tem anéis segmentados, antenas e pernas.
 - **Neon suave** com bloom leve, no tom roxo da arte de *Persona: Dream of Butterfly*.
 - **Asas que se curvam** ao bater: a ponta atrasa em relação à base, como numa borboleta real.
@@ -20,7 +20,7 @@ Tudo está em **um único arquivo** (`index.html`), sem instalação, sem build 
 
 ---
 
-##  O texto
+##O texto
 
 O trecho vem do **Zhuangzi** (莊子), capítulo 2, *"Qi Wu Lun"* (齊物論, "Sobre a igualdade das coisas"), texto do filósofo taoísta **Zhuang Zhou**, escrito por volta do século IV a.C. É uma obra de domínio público.
 
@@ -72,7 +72,7 @@ A ideia central é trabalhar com **vetores 3D** (`x, y, z`). Cada ponto da borbo
 
 ---
 
-## 🚀 Como usar
+## Como usar
 
 ### Abrir localmente
 Baixe o `index.html` e dê dois cliques. Precisa de internet apenas para carregar o three.js pelos CDNs.
@@ -85,7 +85,7 @@ Baixe o `index.html` e dê dois cliques. Precisa de internet apenas para carrega
 
 ---
 
-## 🎛️ Personalizando
+##Personalizando
 
 Tudo fica no próprio `index.html`. Alguns pontos para mexer:
 
@@ -102,7 +102,7 @@ Tudo fica no próprio `index.html`. Alguns pontos para mexer:
 
 ---
 
-## ⚠️ Observações
+##Observações
 
 - **Desempenho:** em celulares mais antigos o bloom e as partículas podem pesar. Reduzir `N` e o bloom ajuda.
 - **Fontes:** o chinês usa as fontes do próprio sistema. Se não aparecer corretamente em algum aparelho, falta uma fonte CJK instalada.
@@ -110,7 +110,7 @@ Tudo fica no próprio `index.html`. Alguns pontos para mexer:
 
 ---
 
-## 🙏 Créditos
+##Créditos
 
 - Texto: **Zhuang Zhou (莊子)**, *Zhuangzi*, domínio público.
 - Inspiração: *Persona: Dream of Butterfly* e a lenda do sonho da borboleta.
