@@ -9,7 +9,7 @@ Tudo está em **um único arquivo** (`index.html`), sem instalação, sem build 
 ---
 
 # Vizualização
-link:https://samyrcouto.github.io/borboleta/
+**Link:**  https://samyrcouto.github.io/borboleta/
 
 ##O que tem no projeto
 
